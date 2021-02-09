@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 <table>
   <tr>
     <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td></td>
+     <td></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/65761533/107284170-09e2d080-6a66-11eb-86b0-52858eba7936.png"  height=400></td>
